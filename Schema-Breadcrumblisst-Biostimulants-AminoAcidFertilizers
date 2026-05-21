@@ -5,22 +5,22 @@
   "itemListElement": [{
     "@type": "ListItem", 
     "position": 1, 
-    "name": "",
+    "name": "Homepage",
     "item": "https://vanpolder.com/"  
   },{
     "@type": "ListItem", 
     "position": 2, 
-    "name": "",
+    "name": "Products",
     "item": "https://vanpolder.com/products/"  
   },{
     "@type": "ListItem", 
     "position": 3, 
-    "name": "",
+    "name": "Product Category",
     "item": "https://vanpolder.com/products/biostimulants/"  
   },{
     "@type": "ListItem", 
     "position": 4, 
-    "name": "",
+    "name": "Product Category",
     "item": "https://vanpolder.com/products/biostimulants/amino-acid-fertilizers/"  
   }]
 }
