@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Van Polder",
+  "image": "https://vanpolder.com/wp-content/uploads/2026/03/Logo-VAN-POLDER_OR.webp",
+  "@id": "",
+  "url": "https://vanpolder.com/",
+  "telephone": "(+31) 615 0123 99",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weena 290, 10e verdieping",
+    "addressLocality": "Rotterdam",
+    "postalCode": "3012 NJ",
+    "addressCountry": "NL"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.9234297,
+    "longitude": 4.4744832
+  } ,
+  "sameAs": [
+    "https://x.com/vanpolder_b2b",
+    "https://github.com/vanpolder",
+    "https://vanpolder.com/",
+    "https://www.youtube.com/@vanpolder",
+    "https://www.instagram.com/vanpolder/",
+    "https://www.tumblr.com/vanpolder"
+  ] 
+}
+</script>
