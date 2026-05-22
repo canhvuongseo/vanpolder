@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Home page",
+    "item": "https://vanpolder.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Cro Nutrition",
+    "item": "https://vanpolder.com/blog/crop-nutrition/"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Article",
+    "item": "https://vanpolder.com/blog/crop-nutrition/ten-bai-viet-1/"  
+  }]
+}
+</script>
