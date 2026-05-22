@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vanpolder.com/blog/crop-nutrition/ten-bai-viet-1/"
+  },
+  "headline": "Tiêu đề bài viết 1",
+  "description": "Mô tả bài viết 1",
+  "image": "https://vanpolder.com/url-anh-bia-bai-viet-1/",  
+  "author": {
+    "@type": "",
+    "name": "Tác giả",
+    "url": "https://vanpolder.com/url-trang-tac-gia"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2026-05-23"
+}
+</script>
