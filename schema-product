@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "EXTREME AA ALGAE Bormo Biostimulant | Van Polder",
+  "image": "https://vanpolder.com/wp-content/uploads/2025/11/image_center.png",
+  "description": "EXTREME AA ALGAE Bormo supports flowering and fruit set with a blend of amino acids and seaweed extract, helping improve plant metabolism and stress tolerance.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Van Polder"
+  }
+}
+</script>
